@@ -1,0 +1,4 @@
+Working with the ETM model consists of two steps.
+1. the documents must be preprocessed. See Jupyter notebook 'Preprocessing'. Note that the result must be written to a separate directory.
+2. In order to directly run the ETM procedure, you have to run the code from the Jupyter notebook 'Learning'.In addition, it is necessary to specify a specific embedding
+You must also specify the directory where the ETM model will save Phi matrices
